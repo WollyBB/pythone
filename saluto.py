@@ -1,3 +1,4 @@
 #saluto.py
-nome = "Wallace Beretta Bezerra"
+
+nome="Wallace Beretta Bezerra"
 print("hello world, mi chiamo ",nome)
