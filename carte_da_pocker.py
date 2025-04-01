@@ -1,3 +1,2 @@
-solo_bytes = b"U+2665"\"u+2663"\"u+2666"\"u+2660"
-stringa=solo_bytes.decode()
-print(stringa)
+colori= b'\xe2\x99\xa5\xe2\x99\xa3\xe2\x99\xa6\xe2\x99\xa0'
+print(colori)
